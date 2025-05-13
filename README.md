@@ -7,7 +7,7 @@ The objective is to analyze unstructured consumer complaints using Natural Langu
 
 ## 📁 Dataset
 
-- **Source:** [Kaggle – Consumer Complaint Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/heemalichaudhari/consumer-complaints/data))
+- **Source:** [Kaggle – Consumer Complaint Dataset]([https://www.kaggle.com/datasets/heemalichaudhari/consumer-complaints/data])
 - **Content:** Customer complaint narratives submitted to the U.S. Consumer Financial Protection Bureau.
 - **Used Column:** `Consumer complaint narrative`
 
